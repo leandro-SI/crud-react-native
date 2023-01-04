@@ -17,4 +17,10 @@ export default [
         email: 'lulu@gmail.com',
         avatarUrl: 'https://cdn.pixabay.com/photo/2017/03/01/22/18/avatar-2109804_960_720.png'
     },
+    {
+        id: 4,
+        name: 'Jacqueliny',
+        email: 'jacqueliny@gmail.com',
+        avatarUrl: 'https://cdn.pixabay.com/photo/2012/04/18/18/07/user-37448_960_720.png'
+    },
 ];
